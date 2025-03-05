@@ -39,3 +39,12 @@
     Classe abstrata -> especial, não pode ser instanciada. definem os métodos e atributos que devem ser obrigatorios ao implmentar nas suas classes filhas.
     Modulo ABC 
 ''5.EX.py''
+
+## Métodos Estáticos
+    Não pertence ao Obj mas sim a classe, sendo fixos.
+    Não dependem de uma instância para serem chamados, não podem acessar vars de instancias.
+    -São compartilhados com todos os objetos criados de uma mesma classe;
+    -Eles só pdoe macessar dados estáticos
+    -Não pdoem ser sobrescritos
+    -Não dependem do estado de um objeto
+''6.EX.py''
